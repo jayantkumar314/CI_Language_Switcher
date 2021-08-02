@@ -16,7 +16,8 @@
  	
  	function __construct()
  	{
- 		parent::__construct();
+ 		parent::__construct(); 
+		// test the 
 
  		$this->load->model('language_switcher_model');
 
